@@ -1,0 +1,4 @@
+[package]
+org = "kanushkagayan"
+name = "test_devant_direct_llm_call"
+version = "1.0.0"
